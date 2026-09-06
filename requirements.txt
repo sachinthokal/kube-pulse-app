@@ -1,0 +1,5 @@
+Flask==3.0.2
+kubernetes==29.0.0
+gunicorn==21.2.0
+python-dotenv==1.2.3
+psutil==5.9.8
